@@ -1,4 +1,4 @@
-# HR-ANALYTICAL-DASHBOARD
+# Smart Traffic Light Management
 A SQL-based project providing insights into traffic patterns, vehicle counts, congestion hotspots, and signal performance by querying and analyzing real-time traffic datasets. Helps in optimizing traffic flow and improving intersection efficiency.
 
 ## Project Highlights
