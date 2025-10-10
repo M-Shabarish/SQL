@@ -25,5 +25,6 @@ insert into doctorCE values(2,"Nivetha",330000,'Cancer,Neural,ENT',4.9),
 						  (4,"Ramesh",180000,'Cardio,Cancer',4.0),
 						  (5,"Suresh",85000,'Neural,ENT',3.9),
 						  (6,"sebastin",99000,'ENT,Neural',4.5);
+
 */					
 Select * from doctorCE;
